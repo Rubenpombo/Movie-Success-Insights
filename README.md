@@ -1,4 +1,4 @@
-# What Makes a Movie Successful ?
+# What Makes a Movie Successful ? 📽️
 This projects aims to uncover insights from more than 5000 movies using diverse visualizations, revealing key factors influencing film success. 
 
 The pdf *Final_report* contains step by step the path that was followed, detailing the preprocessing steps, visualizations created and coclusions afterwards.
@@ -8,6 +8,6 @@ Explore the interactive dashboard [here](https://rubenpartepombo.shinyapps.io/fi
 
 
 ## Authors:
-- Ruben Parte Pombo
-- Miguel Pinto
-- Bárbara Ramos
+- Ruben Parte Pombo 🇪🇸
+- Miguel Pinto 🇵🇹
+- Bárbara Ramos 🇵🇹
