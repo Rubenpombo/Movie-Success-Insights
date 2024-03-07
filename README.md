@@ -1,5 +1,5 @@
 # What Makes a Movie Successful ? 📽️
-This projects aims to uncover insights from more than 5000 movies using diverse visualizations, revealing key factors influencing film success. 
+The movie industry is affected by a lot of factors which are deterministic to whether a movie is successful or not. In this project we have analyzed many factors as the budget, language, income, actors, directors from more than 5000 movies using diverse visualizations, revealing key factors influencing film success. 
 
 The pdf [Final Report](Final_report.pdf) contains step by step the path that was followed, detailing the preprocessing steps, visualizations created and coclusions afterwards.
 
