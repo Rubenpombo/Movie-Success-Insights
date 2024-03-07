@@ -3,3 +3,4 @@ This projects aims to uncover insights from more than 5000 movies using diverse 
 
 The dashboard collects all the visualizations created in the investigation, you can check it by following this link: https://rubenpartepombo.shinyapps.io/final_project/
 
+[Final Report](#final-report)
