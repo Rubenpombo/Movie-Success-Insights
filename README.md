@@ -6,7 +6,7 @@ The pdf [Final Report](Final_report.pdf) contains step by step the path that was
 The code was written in R, you can check it in the file [Final_Script](Final_Script.R)
 
 
-The dashboard, which was created in the *Shiny_App* file, collects all the visualizations created in the investigation.
+The dashboard, which was created in the [Shiny_App](Shiny_App.R) file, collects all the visualizations created in the investigation.
 Explore the interactive dashboard [here](https://rubenpartepombo.shinyapps.io/final_project/)
 
 
