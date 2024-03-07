@@ -8,7 +8,7 @@ The code was written in R, you can check it in the file [Final_Script](Final_Scr
 
 The dashboard, which was created in the [Shiny_App](Shiny_App.R) file, collects all the visualizations created in the investigation.
 
-#### 📊 Explore the interactive dashboard [here](https://rubenpartepombo.shinyapps.io/final_project/)
+### 📊 Explore the interactive dashboard [here](https://rubenpartepombo.shinyapps.io/final_project/)
 
 
 ## Authors:
