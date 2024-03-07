@@ -1,6 +1,5 @@
 # What Makes a Movie Successful ?
-Uncovering insights from more than 5000 movies using diverse visualizations, revealing key factors influencing film success
+This projects aims to uncover insights from more than 5000 movies using diverse visualizations, revealing key factors influencing film success. The pdf *Final_report* contains step by step the path that was followed, detailing the preprocessing steps, visualizations created and coclusions afterwards.
 
-Click here to check the dashboard created: https://rubenpartepombo.shinyapps.io/final_project/
+The dashboard collects all the visualizations created in the investigation, you can check it by following this link: https://rubenpartepombo.shinyapps.io/final_project/
 
-The pdf *Final_report* contains all the 
